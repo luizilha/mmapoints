@@ -1,0 +1,4 @@
+aiogram==3.0.0
+telegram
+python-telegram-bot
+python-dotenv
